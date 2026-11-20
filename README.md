@@ -6,7 +6,6 @@
 
 ## Short History
 
-- 2026-Now Engineer at HealthTech SaaS Company (Tokyo, Japan)
 - 2021-2026 Engineering Manager at Fintech SaaS Company (Ho Chi Minh, Vietnam)
 - 2017-2021 Project Manager at Outsourcing Company (Hanoi, Vietnam)
 - 2013-2017 System Engineer at System Integrator Company (Tokyo, Japan)
